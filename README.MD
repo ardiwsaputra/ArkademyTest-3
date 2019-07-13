@@ -19,6 +19,8 @@ Soal 6: Menggunakan Pengecekan
 
 Soal 7: Capture
 
+Demo: https://ardiwsaputra.github.io/
+
 Tambah Data
 
 ![tambah-data1](https://i.ibb.co/6n6r6gH/tambah-data1.png)
