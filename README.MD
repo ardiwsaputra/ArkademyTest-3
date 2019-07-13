@@ -19,7 +19,9 @@ Soal 6: Menggunakan Pengecekan
 
 Soal 7: Capture
 
-Demo: https://ardiwsaputra.github.io/
+Statis Demo: https://ardiwsaputra.github.io/
+
+Dinamis Demo: Folder 7
 
 Tambah Data
 
