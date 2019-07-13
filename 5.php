@@ -28,7 +28,8 @@ function segitigaPrima($batas)
         {
             for ($j = 1; $j <= $i ; $j++) 
             {
-                if ($i <= 1) {
+                if ($i <= 1) 
+                {
                     echo $prima[$i-1];
                 }
                 else if ($i > 0)
